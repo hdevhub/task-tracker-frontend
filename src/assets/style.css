@@ -32,4 +32,8 @@ h1 {
 .task-list li button {
   margin-left: 10px;
 }
+.task-text.completed {
+  text-decoration: line-through;
+  color: gray;
+}
 
