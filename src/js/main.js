@@ -1,1 +1,1 @@
-console.log("Task Tracker loaded");
+console.log("Task Tracker loaded successfully");
