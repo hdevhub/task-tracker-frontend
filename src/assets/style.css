@@ -24,15 +24,11 @@ h1 {
 .task-list li {
   margin-bottom: 8px;
 }
-.completed {
-  text-decoration: line-through;
-  color: gray;
-}
 
 .task-list li button {
   margin-left: 10px;
 }
-.task-text.completed {
+.task-item.done .task-text {
   text-decoration: line-through;
   color: gray;
 }
